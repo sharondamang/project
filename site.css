@@ -1,0 +1,43 @@
+h1{
+    color: rgb(144, 77, 90);
+    text-decoration: overline;
+}
+
+h2{
+    color:rgb(145, 72, 87);
+    text-decoration: overline;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+#banner{
+    background-color: rgb(77, 76, 73);
+}
+#nav{
+    background-color: rgb(47, 112, 112);
+    color:aliceblue;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#nav a{
+    color:aliceblue;
+    text-decoration: none;
+    font-size: large;
+    margin-right: 10px;
+}
+#banner {
+    background-color: darkkhaki;
+}
+
+#nav {
+    background-color: cadetblue;
+    color:aliceblue;
+    padding:10px;
+    text-align: center;
+}
